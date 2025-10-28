@@ -1,0 +1,7 @@
+# ...existing code...
+layouts:
+  mobile: mobile
+  tablet: tablet
+
+breakpoint: 600
+# ...existing code...
